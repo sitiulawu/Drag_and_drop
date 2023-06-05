@@ -1,11 +1,9 @@
 # Step-By-Step Project on How to Create the Drag and Drop using HTML, CSS & JAVASCRIPT
 
-Welcome to My Drag and Drop project using HTML, CSS & JAVASCRIPT! You can check live version here:<br /><br />
-
 **To do this project, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ### Links
-
+You can check live version here:<br />
 - Solution URL: (https://github.com/Daslaw/Drag_and_drop.git)
 - Live Site URL:(https://daslaw.github.io/Drag_and_drop/)
 
