@@ -32,5 +32,5 @@ Welcome to My Drag and Drop project using HTML, CSS & JAVASCRIPT! You can check 
 
 Myself
 
-## Project screen shots:
-![Drag Drop Project screenshots](https://github.com/Daslaw/Drag_and_drop/assets/64631869/fb508c24-3eb5-4924-886b-38211adc3198)
+## Project screen shot:
+![Drag Drop Project screenshot](https://github.com/Daslaw/Drag_and_drop/assets/64631869/fb508c24-3eb5-4924-886b-38211adc3198)
